@@ -1,0 +1,14 @@
+{
+    "name": "rama/composer-test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "RamadeviAyyagari",
+            "email": "48958128+RamadeviAyyagari@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.24",
+        "symfony/stopwatch": "^3.4"
+    }
+}
